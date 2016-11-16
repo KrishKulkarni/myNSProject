@@ -1,0 +1,2 @@
+# myNSProject
+Native script project
